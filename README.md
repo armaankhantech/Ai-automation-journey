@@ -69,7 +69,7 @@ Goal: First freelance client by Month 3. First product by Month 6.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/armaankhan-tech/)
 - 🐦 [Twitter/X](https://x.com/armaankhantech)
-- 💻 [GitHub](https://github.com/armaankhantech-glitch)
+- 💻 [GitHub](https://github.com/armaankhantech)
 
 ---
 
