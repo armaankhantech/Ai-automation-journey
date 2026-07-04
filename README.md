@@ -30,7 +30,7 @@ Goal: First freelance client by Month 3. First product by Month 6.
 | #  | Project                           | Repo                                                          | Status         |
 |----|-----------------------------------|---------------------------------------------------------------|----------------|
 | 01 | AI Lead CRM System                | [View](https://github.com/armaankhantech/Ai-lead-crm-system)  | ✅ Complete     |
-| 02 | ARK AI Customer Support Assistant | Coming soon (frontend in progress)                            | 🔨 In Progress  |
+| 02 | ARK AI Customer Support Assistant | [View](https://github.com/armaankhantech/ark-ai-customer-support-assistant) | 🔨 In Progress  |
 | 03 | AI Content Automation System      | Coming soon                                                   | 📋 Planned      |
 | 04 | Lead Generation Automation        | Coming soon                                                   | 📋 Planned      |
 | 05 | AI Business Operations Automation | Coming soon                                                   | 📋 Planned      |
@@ -57,6 +57,8 @@ Goal: First freelance client by Month 3. First product by Month 6.
 | Day 14 | Completed Anthropic AI Fluency course — 4D framework (Delegation, Description, Discernment, Diligence) |
 | Day 15 | ARK AI Customer Support backend complete — webhook → Ollama → PostgreSQL pipeline, Docker networking fix, 114s → 15s optimization |
 | Day 16 | Python 3.12 dev environment setup — VS Code, PowerShell 7, venv, AI & data science dependencies |
+| Day 17 | ARK AI full-stack pipeline — Express backend, HTML/CSS/JS frontend chat UI, CORS handling, n8n webhook integration |
+| Day 18 | Conversation memory implementation — session IDs, PostgreSQL message storage, history retrieval, context-aware responses |
 
 ---
 
