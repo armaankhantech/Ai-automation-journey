@@ -60,6 +60,7 @@ Goal: First freelance client by Month 3. First product by Month 6.
 | Day 17 | ARK AI full-stack pipeline — Express backend, HTML/CSS/JS frontend chat UI, CORS handling, n8n webhook integration |
 | Day 18 | Conversation memory implementation — session IDs, PostgreSQL message storage, history retrieval, context-aware responses |
 | Day 19 | Business Knowledge V1 — companyInfo.js as single source of truth, prompt grounding, rolling 20-message context window, hallucination fallback for out-of-scope questions |
+| Day  20 |
 ---
 
 ## Tech Stack
