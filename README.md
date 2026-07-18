@@ -65,7 +65,7 @@ Goal: First freelance client by Month 3. First product by Month 6.
 | Day 22 | Added streaming (typewriter) response effect, Markdown rendering, syntax highlighting for code blocks, and a copy-to-clipboard button on code blocks; confirmed backend (Express API, n8n, Ollama, PostgreSQL memory, session handling) integration end-to-end |
 | Day 23 |- Migrated from Qwen3:8B to Gemma3:4B - Refactored Build Prompt node - Simplified production system prompt - Improved company & general knowledge routing - Reduced prompt complexity - Optimized conversation context - Tuned Ollama inference parameters |
 | Day 24 | I transformed my AI Customer Support Assistant from a single server.js file into a production-style backend architecture. |
-| Day 25 | Today I upgraded the AI Customer Support Assistant from a hardcoded knowledge base to a dynamic database-driven architecture.
+| Day 25 | Today I upgraded the AI Customer Support Assistant from a hardcoded knowledge base to a dynamic database-driven architecture. |
 ---
 
 ## Tech Stack
