@@ -13,15 +13,7 @@ Goal: First freelance client by Month 3. First product by Month 6.
 
 ---
 
-## The Roadmap
 
-| Phase            | Focus                                           | Status    |
-|------------------|-------------------------------------------------|-----------|
-| 1 — Foundations  | APIs, JSON, n8n basics, workflow thinking       | ✅ Done    |
-| 2 — Builder      | Real projects, PostgreSQL, AI agents, portfolio | 🔨 Now     |
-| 3 — Professional | Client work, advanced architecture, paid tools  | 📋 Planned |
-| 4 — Expert       | Complex systems, team workflows, SaaS thinking  | 📋 Planned |
-| 5 — Entrepreneur | Products, revenue, scale                        | 📋 Planned |
 
 ---
 
