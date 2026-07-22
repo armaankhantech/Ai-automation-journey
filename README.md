@@ -4,6 +4,11 @@ My public journey from CS student to AI Automation Engineer.
 Documenting every day: what I learned, what I built, what I posted.
 
 ---
+## Who I Am
+
+20-year-old CS student from Pune, India.
+Not doing DSA. Not chasing web dev. One path: AI Automation Engineering.
+Goal: First freelance client by Month 3. First product by Month 6.
 
 
 ---
