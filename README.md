@@ -88,6 +88,12 @@ Goal: First freelance client by Month 3. First product by Month 6.
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
 
 ---
+## Certifications
+
+| Certification                            | Issuer    | Completed |
+|------------------------------------------|-----------|-----------|
+| Claude 101                               | Anthropic | Day 13    |
+| AI Fluency: Framework & Foundations (4D) | Anthropic | Day 14    |
 
 
 ---
