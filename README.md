@@ -89,12 +89,6 @@ Goal: First freelance client by Month 3. First product by Month 6.
 
 ---
 
-## Certifications
-
-| Certification                            | Issuer    | Completed |
-|------------------------------------------|-----------|-----------|
-| Claude 101                               | Anthropic | Day 13    |
-| AI Fluency: Framework & Foundations (4D) | Anthropic | Day 14    |
 
 ---
 
