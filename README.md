@@ -76,7 +76,7 @@ Goal: First freelance client by Month 3. First product by Month 6.
 | Day 33 | Today I isolated the exact failure point in ARK AI's long-term memory system. |
 | Day 34 | Today was about making ARK AI deployment-ready. |
 | Day 35 | Today I Launched ARK AI V1.0 — Public Release 🚀 |
-| Day 36 |  |
+| Day 36 |  I stopped building for a day to actually understand why voice AI agents break in production. 10 concepts, one thread. 🧵 |
 ---
 
 ## Tech Stack
