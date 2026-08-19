@@ -1,7 +1,3 @@
-# Armaan Khan — AI Automation Journey
-
-My public journey from CS student to AI Automation Engineer.
-Documenting every day: what I learned, what I built, what I posted.
 
 ---
 ## Who I Am
