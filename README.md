@@ -81,7 +81,7 @@ Goal: First freelance client by Month 3. First product by Month 6.
 | Day 40 | today I started something new from the ground up: An AI-powered student/college assistant  |
 | Day 41 | Today I moved ASM AI from a frontend prototype toward a real full-stack AI system. |
 | Day 42 | Today I moved ASM AI one step closer to becoming a real student/admission assistant. |
-| Day 43 |
+| Day 43 |  |
 ---
 
 ## Tech Stack
