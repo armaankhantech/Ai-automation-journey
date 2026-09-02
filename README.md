@@ -85,6 +85,7 @@ Goal: First freelance client by Month 3. First product by Month 6.
 | Day 44 | ASM AI V1 Core Pipeline Testing 🚀 |
 | Day 45 | ASM AI V1 — Student & Admission Assistant 🚀  |
 | Day 46 | Event-Driven Enquiry Automation |
+|        |
 ---
 
 ## Tech Stack
