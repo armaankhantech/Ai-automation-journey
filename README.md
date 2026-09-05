@@ -30,9 +30,9 @@ Goal: First freelance client by Month 3. First product by Month 6.
 | 01 | AI Lead CRM System                | [View](https://github.com/armaankhantech/Ai-lead-crm-system)  | ✅ Complete     |
 | 02 | ARK AI Customer Support Assistant | [View](https://github.com/armaankhantech/ark-ai-customer-support-assistant) | ✅ Complete  |
 | 03 |                                   |                                                               |                    |
-| 03 | ARK AI VOICE AGENT                | Coming soon                                                   | 📋 Planned      |
-| 04 | AI Content Automation System      | Coming soon                                                   | 📋 Planned      |
-| 05 | Lead Generation Automation        | Coming soon                                                   | 📋 Planned      |
+| 04 | ARK AI VOICE AGENT                | Coming soon                                                   | 📋 Planned      |
+| 05 | AI Content Automation System      | Coming soon                                                   | 📋 Planned      |
+| 06 | Lead Generation Automation        | Coming soon                                                   | 📋 Planned      |
 
 ---
 
