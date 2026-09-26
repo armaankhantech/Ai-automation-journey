@@ -93,8 +93,8 @@ Goal: First freelance client by Month 3. First product by Month 6.
 | Day 51 | AI is not the end goal. |
 | Day 52 | I want to learn how to solve real business problems.   |
 | Day 53 | I built a Virtual Mouse controlled entirely by hand gestures. 🖐️   |
-| Day 54 |  I built A beginner-friendly AI Customer Support Tool Agent |
-| Day 55 |    |
+| Day 54 | I built A beginner-friendly AI Customer Support Tool Agent |
+| Day 55 | I built an AI agent that can decide what to do next with "Guardrails".   |
 ---
 
 ## Tech Stack
