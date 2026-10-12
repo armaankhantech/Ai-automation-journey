@@ -102,7 +102,7 @@ Goal: First freelance client by Month 3. First product by Month 6.
 | Day 60 | Today, I built a fully automated WhatsApp AI Auto-Reply Agent using Python + Google Gemini.  |
 ---
 
-## Tech Stack
+## Tech Stac- 
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
