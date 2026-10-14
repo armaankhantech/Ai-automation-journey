@@ -101,6 +101,7 @@ Goal: First freelance client by Month 3. First product by Month 6.
 | Day 59 | A production-focused responsive website built for Joy Enterprises, an HVAC business based in Pune.   |
 | Day 60 | Today, I built a fully automated WhatsApp AI Auto-Reply Agent using Python + Google Gemini.  |
 | Day 61 | The Hidden Loophole in AI Agents 🤖    |
+|
 ---
 
 ## Tech Stac- 
