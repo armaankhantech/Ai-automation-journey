@@ -1,5 +1,3 @@
-## Armaan khan
-Learning AI AUTOMATIONS.
 
 ---
 
