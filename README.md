@@ -1,5 +1,4 @@
-## Armaan khan
-Learning AI AUTOMATIONS.
+
 ---
 
 ## Who I Am 
