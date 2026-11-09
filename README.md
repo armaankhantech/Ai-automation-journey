@@ -104,7 +104,7 @@ Goal: First freelance client by Month 3. First product by Month 6.
 | Day 64 | Jarvis Voice Agent: Real-World Testing |
 | Day 65 | Desktop AI automation is way harder than opening websites. Here is the brutal truth about building a real Jarvis. |
 | Day 66 | I pushed my personal AI assistant, JARVIS, to GitHub. 🤖   |
-| Day 67 |
+| Day 67 |   |
 ---
 
 ## Tech Stac- 
